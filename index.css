@@ -1,0 +1,37 @@
+body {
+background-image: url(./th.jpg);
+background-size: contain;
+}
+ p{ color: rgb(0, 15, 15);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: larger;
+    border: 2px solid black;
+}
+.img{ 
+text-align: center;
+}
+nav {
+    position: fixed;
+    padding-left: 1500px;
+}
+label{
+   color: blueviolet;
+}
+img {
+    border: 10px solid brown;
+    border-radius: 5px;
+}
+li {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.lorem{
+    font-style: oblique;
+    border-style: dotted solid blue;
+}
+button {
+    color: rgb(255, 0, 21);
+}
+
